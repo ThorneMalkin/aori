@@ -1,8 +1,21 @@
 ## Bienvenue dans la matrice
 
+Il parraît que la réalité n'est pas telle que nous le croyons. 
+
 You can use the [editor on GitHub](https://github.com/ThorneMalkin/aori/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+**Coucou Farenheit**
+
+[le meilleur streamer de tout les temps](https://www.twitch.tv/search?term=jaldrin_harikuin)
+
+Ma liste de choses à faire
+- penser à méditer
+- travaux école
+
+1. j'ai sommeil
+2. les souris ça craint
 
 ### Markdown
 
@@ -15,11 +28,13 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+Ma liste
 - Bulleted
 - List
 
 1. Numbered
 2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
